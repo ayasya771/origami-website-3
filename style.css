@@ -1,0 +1,26 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+    background-color: crimson;
+    padding:40px;
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    font-weight: 500;
+    color: chartreuse;
+}
+body{
+    margin:0px;
+    background-color: lightcoral;
+}
+.grid img{
+    border:2px solid darkblue;
+    border-radius:50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color: yellow;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: Impact;
+}
